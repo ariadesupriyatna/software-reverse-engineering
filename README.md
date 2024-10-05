@@ -11,4 +11,5 @@ A collection of awesome Android app reverse engineering resources
 .
 https://s.id/ariadesupriyatna
 .
+.
 https://ariadesupriyatna.medium.com
