@@ -9,7 +9,5 @@ A collection of awesome Android app reverse engineering resources
 .
 </>BF7</>
 .
-https://s.id/ariadesupriyatna
 .
-.
-https://ariadesupriyatna.medium.com
+ariadesupriyatna.medium.com
