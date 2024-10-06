@@ -24,3 +24,7 @@ A collection of awesome Android app reverse engineering resources
 - [Reqable](https://github.com/reqable/reqable-app/releases)
 - [AXML-Editor](https://github.com/AbdurazaaqMohammed/AXML-Editor/releases)
 - [SAI](https://github.com/Aefyr/SAI/releases)
+- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd/releases)
+- [Acode](https://github.com/deadlyjack/Acode)
+- [ApkEncryptor](https://github.com/FlyingYu-Z/ApkEncryptor)
+- [Magisk](https://github.com/topjohnwu/Magisk/releases)
