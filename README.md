@@ -32,3 +32,4 @@ A collection of awesome Android app reverse engineering resources
 - [DH-HackBar](https://github.com/darknethaxor/DH-HackBar/releases)
 - [Secret Space Encryptor](https://f-droid.org/packages/com.paranoiaworks.unicus.android.sse/)
 - [OpenVPN](https://github.com/schwabe/ics-openvpn/releases)
+- [connectbot](https://github.com/connectbot/connectbot/releases)
