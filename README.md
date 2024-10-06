@@ -28,3 +28,7 @@ A collection of awesome Android app reverse engineering resources
 - [Acode](https://github.com/deadlyjack/Acode)
 - [ApkEncryptor](https://github.com/FlyingYu-Z/ApkEncryptor)
 - [Magisk](https://github.com/topjohnwu/Magisk/releases)
+- [AppManager](https://github.com/MuntashirAkon/AppManager/releases)
+- [DH-HackBar](https://github.com/darknethaxor/DH-HackBar/releases)
+- [Secret Space Encryptor](https://f-droid.org/packages/com.paranoiaworks.unicus.android.sse/)
+- [OpenVPN](https://github.com/schwabe/ics-openvpn/releases)
