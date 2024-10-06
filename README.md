@@ -43,3 +43,7 @@ A collection of awesome Android app reverse engineering resources
 - [jasi patcher](https://jasi2169.com/jasi-patcher/)
 - [Lucky Patcher](https://www.luckypatchers.com/download/)
 - [GameGuardian](https://gameguardian.net/download)
+- [ModderHub](https://github.com/modder-hub/Modder_Hub/releases/tag/ModderHub)
+- [text_converter](https://play.google.com/store/apps/details?id=duy.com.text_converter)
+- [apk-editor](https://apk-editor.id.uptodown.com/android/download)
+- [apk-parser](https://apkpure.com/id/apk-parser/com.gmail.heagoo.apkeditor.parser)
