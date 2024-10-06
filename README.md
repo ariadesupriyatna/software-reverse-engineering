@@ -64,3 +64,9 @@ A collection of awesome Android app reverse engineering resources
 - [xdaforums](https://xdaforums.com/tags/reverse-engineering/)
 - [reversingid](https://t.me/reversingid)
 - [platinmods](https://platinmods.com/)
+
+## Challenges
+- [Crackme](https://crackmes.one/)
+- [PicoCTF](https://picoctf.org/)
+- [Play Store](https://play.google.com/store/games)
+- [Profesional](https://challenges.re/)
