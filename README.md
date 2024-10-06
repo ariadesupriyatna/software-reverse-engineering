@@ -35,7 +35,7 @@ A collection of awesome Android app reverse engineering resources
 - [connectbot](https://github.com/connectbot/connectbot/releases)
 - [Limbo Emulator](https://github.com/limboemu/limbo/releases)
 - [DroidVim](https://github.com/shiftrot/droidvim/releases)
-- 
+- [SandroProxy](https://github.com/SuppSandroB/sandrop)
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
