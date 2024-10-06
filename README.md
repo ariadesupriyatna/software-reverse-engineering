@@ -20,3 +20,7 @@ A collection of awesome Android app reverse engineering resources
 - [VirtualXposed](https://github.com/android-hacker/VirtualXposed/releases)
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid/releases)
 - [HexViewer](https://f-droid.org/packages/fr.ralala.hexviewer/)
+- [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE/releases)
+- [Reqable](https://github.com/reqable/reqable-app/releases)
+- [AXML-Editor](https://github.com/AbdurazaaqMohammed/AXML-Editor/releases)
+- [SAI](https://github.com/Aefyr/SAI/releases)
