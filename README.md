@@ -39,3 +39,6 @@ A collection of awesome Android app reverse engineering resources
 - [MT manager](https://mt2.cn/)
 - [NP manager](http://normalplayer.top)
 - [Dexplorer](https://play.google.com/store/apps/details?id=com.dexplorer)
+- [jasi patcher](https://jasi2169.com/jasi-patcher/)
+- [Lucky Patcher](https://www.luckypatchers.com/download/)
+- [GameGuardian](https://gameguardian.net/download)
