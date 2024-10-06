@@ -14,3 +14,5 @@ A collection of awesome Android app reverse engineering resources
 - [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M/releases)
 - [Il2CppDumper](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases)
 - [BlackDex](https://github.com/CodingGay/BlackDex/releases)
+- [Termux](https://github.com/termux/termux-app/releases)
+- [ktxPy](https://github.com/PsiCodes/ktxpy/releases)
