@@ -16,3 +16,7 @@ A collection of awesome Android app reverse engineering resources
 - [BlackDex](https://github.com/CodingGay/BlackDex/releases)
 - [Termux](https://github.com/termux/termux-app/releases)
 - [ktxPy](https://github.com/PsiCodes/ktxpy/releases)
+- [APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor/releases)
+- [VirtualXposed](https://github.com/android-hacker/VirtualXposed/releases)
+- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid/releases)
+- [HexViewer](https://f-droid.org/packages/fr.ralala.hexviewer/)
