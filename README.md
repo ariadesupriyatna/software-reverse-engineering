@@ -33,3 +33,9 @@ A collection of awesome Android app reverse engineering resources
 - [Secret Space Encryptor](https://f-droid.org/packages/com.paranoiaworks.unicus.android.sse/)
 - [OpenVPN](https://github.com/schwabe/ics-openvpn/releases)
 - [connectbot](https://github.com/connectbot/connectbot/releases)
+
+##Alternative not open source 
+- [Apktool M](https://maximoff.su/apktool/?lang=en)
+- [MT manager](https://mt2.cn/)
+- [NP manager](http://normalplayer.top)
+- [Dexplorer](https://play.google.com/store/apps/details?id=com.dexplorer)
