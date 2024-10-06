@@ -49,3 +49,7 @@ A collection of awesome Android app reverse engineering resources
 - [apk-editor](https://apk-editor.id.uptodown.com/android/download)
 - [apk-parser](https://apkpure.com/id/apk-parser/com.gmail.heagoo.apkeditor.parser)
 - [apksigner](https://play.google.com/store/apps/details?id=com.haibison.apksigner)
+- [Http Toolkit](https://play.google.com/store/apps/details?id=tech.httptoolkit.android.v1)
+- [Packet Capture](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture)
+- [NetCapture](https://play.google.com/store/apps/details?id=com.minhui.networkcapture)
+- [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
