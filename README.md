@@ -12,3 +12,5 @@ A collection of awesome Android app reverse engineering resources
 - [Android-Disassembler](https://github.com/yhs0602/Android-Disassembler/releases)
 - [BinEd](https://github.com/exbin/bined-android/releases)
 - [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M/releases)
+- [Il2CppDumper](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases)
+- [BlackDex](https://github.com/CodingGay/BlackDex/releases)
