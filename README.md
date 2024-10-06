@@ -6,3 +6,7 @@ A collection of awesome Android app reverse engineering resources
 4. my favorite 🤫🤐
 
 ![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/BlackFishSeven.jpg)
+
+## https://0xbf7.github.io/team/
+- [Disassembler](https://github.com/timscriptov/Disassembler/releases)
+- [Android-Disassembler](https://github.com/yhs0602/Android-Disassembler/releases)
