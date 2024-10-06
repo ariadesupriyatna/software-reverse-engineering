@@ -47,3 +47,4 @@ A collection of awesome Android app reverse engineering resources
 - [text_converter](https://play.google.com/store/apps/details?id=duy.com.text_converter)
 - [apk-editor](https://apk-editor.id.uptodown.com/android/download)
 - [apk-parser](https://apkpure.com/id/apk-parser/com.gmail.heagoo.apkeditor.parser)
+- [apksigner](https://play.google.com/store/apps/details?id=com.haibison.apksigner)
