@@ -59,4 +59,8 @@ A collection of awesome Android app reverse engineering resources
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
-
+## Lifelong Learning
+- [stackexchange](https://reverseengineering.stackexchange.com/)
+- [xdaforums](https://xdaforums.com/tags/reverse-engineering/)
+- [reversingid](https://t.me/reversingid)
+- [platinmods](https://platinmods.com/)
