@@ -53,3 +53,4 @@ A collection of awesome Android app reverse engineering resources
 - [Packet Capture](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture)
 - [NetCapture](https://play.google.com/store/apps/details?id=com.minhui.networkcapture)
 - [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+- [MiXplorer](https://drive.google.com/drive/folders/1BfeK39boriHy-9q76eXLLqbCwfV17-Gv)
