@@ -80,6 +80,8 @@ A collection of awesome Android app reverse engineering resources
 - [Timestamp Calculator](https://sfile.mobi/avjH0R7CH6I)
 - [Greenify](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify)
 - [HEX Editor](https://play.google.com/store/apps/details?id=com.myprog.hexedit)
+- [apkanalyzer plus](https://sfile.mobi/44rbU1Yp8I4)--warning❌virus
+- [ADK Editor](https://sfile.mobi/4bPbY5pF9mY)--warning❌virus
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
