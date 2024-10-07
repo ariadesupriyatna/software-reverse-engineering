@@ -55,6 +55,9 @@ A collection of awesome Android app reverse engineering resources
 - [NetCapture](https://play.google.com/store/apps/details?id=com.minhui.networkcapture)
 - [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 - [MiXplorer](https://drive.google.com/drive/folders/1BfeK39boriHy-9q76eXLLqbCwfV17-Gv)
+- [AIDE](https://aide.id.uptodown.com/android)
+- [MIT App Inventor](https://appinventor.mit.edu/)
+- [Kodular](https://www.kodular.io/)
 
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
