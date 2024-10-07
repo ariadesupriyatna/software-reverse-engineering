@@ -65,6 +65,7 @@ A collection of awesome Android app reverse engineering resources
 - [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx)
 - [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)
 - [Editor JSON](https://play.google.com/store/apps/details?id=com.vibo.jsontool)
+- [Brevent](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
 
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
