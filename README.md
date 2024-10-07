@@ -43,6 +43,11 @@ A collection of awesome Android app reverse engineering resources
 - [Multi Calculator](https://github.com/YangDai2003/Multi-Calculator-Android/releases)
 - [FakeTraveler](https://f-droid.org/packages/cl.coders.faketraveler/)
 - [MIT App Inventor](https://github.com/mit-cml/appinventor-sources)
+- [Thunderbird Android](https://github.com/thunderbird/thunderbird-android/releases)
+- [Blokada](https://github.com/blokadaorg/blokada/releases)
+- [personalDNSfilter](https://github.com/IngoZenz/personaldnsfilter/releases)
+
+- [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary/releases/)
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
@@ -70,7 +75,6 @@ A collection of awesome Android app reverse engineering resources
 - [Editor JSON](https://play.google.com/store/apps/details?id=com.vibo.jsontool)
 - [Brevent](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
 - [Timestamp Calculator](https://sfile.mobi/avjH0R7CH6I)
-
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
