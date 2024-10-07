@@ -50,6 +50,7 @@ A collection of awesome Android app reverse engineering resources
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary/releases/)
 - [sslunpinning](https://github.com/ac-pm/SSLUnpinning_Xposed/blob/master/mobi.acpm.sslunpinning_latest.apk)
 - [Shizuku](https://github.com/RikkaApps/Shizuku/releases)
+- [Smali Helper](https://github.com/Zylern/Smali-Helper/releases/)
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
@@ -79,7 +80,6 @@ A collection of awesome Android app reverse engineering resources
 - [Timestamp Calculator](https://sfile.mobi/avjH0R7CH6I)
 - [Greenify](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify)
 - [HEX Editor](https://play.google.com/store/apps/details?id=com.myprog.hexedit)
-
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
