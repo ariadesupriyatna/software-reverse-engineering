@@ -48,6 +48,8 @@ A collection of awesome Android app reverse engineering resources
 - [personalDNSfilter](https://github.com/IngoZenz/personaldnsfilter/releases)
 - [RootBeerFresh](https://github.com/KimChangYoun/rootbeerFresh/releases)
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary/releases/)
+- [sslunpinning](https://github.com/ac-pm/SSLUnpinning_Xposed/blob/master/mobi.acpm.sslunpinning_latest.apk)
+- [Shizuku](https://github.com/RikkaApps/Shizuku/releases)
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
