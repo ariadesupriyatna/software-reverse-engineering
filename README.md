@@ -42,6 +42,7 @@ A collection of awesome Android app reverse engineering resources
 - [SysLog](https://github.com/Tortel/SysLog/releases)
 - [Multi Calculator](https://github.com/YangDai2003/Multi-Calculator-Android/releases)
 - [FakeTraveler](https://f-droid.org/packages/cl.coders.faketraveler/)
+- [MIT App Inventor](https://github.com/mit-cml/appinventor-sources)
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
@@ -61,7 +62,6 @@ A collection of awesome Android app reverse engineering resources
 - [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 - [MiXplorer](https://drive.google.com/drive/folders/1BfeK39boriHy-9q76eXLLqbCwfV17-Gv)
 - [AIDE](https://aide.id.uptodown.com/android)
-- [MIT App Inventor](https://appinventor.mit.edu/)
 - [Kodular](https://www.kodular.io/)
 - [QuicEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
 - [DevTools](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)
