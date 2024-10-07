@@ -84,6 +84,7 @@ A collection of awesome Android app reverse engineering resources
 - [ADK Editor](https://sfile.mobi/4bPbY5pF9mY)--warning❌virus
 - [Basic Engineering Dictionary](https://play.google.com/store/apps/details?id=com.ma.ld.dict.engg)
 - [ArduinoDroid](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2)
+- [Cryptography](https://play.google.com/store/apps/details?id=com.nitramite.cryptography)
 - 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
