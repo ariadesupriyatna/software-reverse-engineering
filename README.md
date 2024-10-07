@@ -75,6 +75,7 @@ A collection of awesome Android app reverse engineering resources
 - [Editor JSON](https://play.google.com/store/apps/details?id=com.vibo.jsontool)
 - [Brevent](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
 - [Timestamp Calculator](https://sfile.mobi/avjH0R7CH6I)
+-[Greenify](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify)
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
