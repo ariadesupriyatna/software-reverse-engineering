@@ -60,6 +60,7 @@ A collection of awesome Android app reverse engineering resources
 - [AIDE](https://aide.id.uptodown.com/android)
 - [MIT App Inventor](https://appinventor.mit.edu/)
 - [Kodular](https://www.kodular.io/)
+- [QuicEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
 
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
