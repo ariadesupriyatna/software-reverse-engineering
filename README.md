@@ -46,7 +46,7 @@ A collection of awesome Android app reverse engineering resources
 - [Thunderbird Android](https://github.com/thunderbird/thunderbird-android/releases)
 - [Blokada](https://github.com/blokadaorg/blokada/releases)
 - [personalDNSfilter](https://github.com/IngoZenz/personaldnsfilter/releases)
-
+- [RootBeerFresh](https://github.com/KimChangYoun/rootbeerFresh/releases)
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary/releases/)
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
@@ -75,7 +75,6 @@ A collection of awesome Android app reverse engineering resources
 - [Editor JSON](https://play.google.com/store/apps/details?id=com.vibo.jsontool)
 - [Brevent](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
 - [Timestamp Calculator](https://sfile.mobi/avjH0R7CH6I)
-- [RootBeerFresh](https://github.com/KimChangYoun/rootbeerFresh/releases)
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
