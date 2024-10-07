@@ -61,6 +61,10 @@ A collection of awesome Android app reverse engineering resources
 - [MIT App Inventor](https://appinventor.mit.edu/)
 - [Kodular](https://www.kodular.io/)
 - [QuicEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
+- [DevTools](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)
+- [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx)
+- [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)
+- [Editor JSON](https://play.google.com/store/apps/details?id=com.vibo.jsontool)
 
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
