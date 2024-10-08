@@ -120,6 +120,7 @@ A collection of awesome Android app reverse engineering resources
 - [LuaDroid](https://play.google.com/store/apps/details?id=com.alif.ide.lual)
 - [SQLite Database Editor](https://play.google.com/store/apps/details?id=com.tomminosoftware.sqliteeditor)
 - [PentestKit Mobile](https://play.google.com/store/apps/details?id=com.pentestkit)
+- [iShredder](https://play.google.com/store/apps/details?id=com.projectstar.ishredder.android.standard)
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
