@@ -78,7 +78,9 @@ A collection of awesome Android app reverse engineering resources
 - [VirtualApp](https://github.com/asLody/VirtualApp)
 - [ReverseAPK](https://github.com/1n3/reverseapk)
 - [APKiD](https://github.com/rednaga/APKiD/releases)
-- 
+- [Dobby](https://github.com/jmpews/Dobby)
+- [Android-Debug-Database](https://github.com/amitshekhariitbhu/android-debug-database)
+
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
