@@ -60,6 +60,8 @@ A collection of awesome Android app reverse engineering resources
 - [HashDroid](https://github.com/HobbyOneDroid/HashDroid)
 - [NetHunter](https://store.nethunter.com/packages/com.offsec.nethunter/)
 - [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard/releases)
+- [RFAnalyzer
+](https://store.nethunter.com/packages/com.mantz_it.rfanalyzer/)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
