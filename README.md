@@ -69,6 +69,7 @@ A collection of awesome Android app reverse engineering resources
 - [AndroidWM](http://huangyz.name/AndroidWM/)
 - [LIME](https://github.com/504ensicslabs/lime)
 - [Android-nRF-Connect](https://github.com/NordicSemiconductor/Android-nRF-Connect/releases)
+- [PoC-GTFO](https://github.com/angea/pocorgtfo)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
