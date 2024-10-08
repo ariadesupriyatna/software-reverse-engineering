@@ -74,7 +74,11 @@ A collection of awesome Android app reverse engineering resources
 - [Tinker](https://github.com/tencent/tinker)
 - [Dex-to-C Compiler](https://github.com/amimo/dcc)
 - [SmaliEx](https://github.com/testwhat/SmaliEx/releases)
-
+- [SandVXposed](https://github.com/asLody/SandVXposed/releases)
+- [VirtualApp](https://github.com/asLody/VirtualApp)
+- [ReverseAPK](https://github.com/1n3/reverseapk)
+- [APKiD](https://github.com/rednaga/APKiD/releases)
+- 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
