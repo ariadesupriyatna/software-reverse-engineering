@@ -55,6 +55,10 @@ A collection of awesome Android app reverse engineering resources
 - [QPython](https://github.com/qpython-android/qpython/releases)
 - [CodeAssist Unofficial](https://github.com/Deenu488/CodeAssist-Unofficial)
 - [LokiBoard](https://github.com/IceWreck/LokiBoard-Android-Keylogger)
+- [PilferShushJammer](https://github.com/kaputnikGo/PilferShushJammer/releases)
+- [PixelKnot](https://github.com/guardianproject/PixelKnot/releases)
+- [HashDroid](https://github.com/HobbyOneDroid/HashDroid)
+- [NetHunter](https://store.nethunter.com/packages/com.offsec.nethunter/)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
