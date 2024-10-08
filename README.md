@@ -81,6 +81,7 @@ A collection of awesome Android app reverse engineering resources
 - [Dobby](https://github.com/jmpews/Dobby)
 - [Android-Debug-Database](https://github.com/amitshekhariitbhu/android-debug-database)
 - [Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App/releases)
+- [APatch](https://github.com/bmax121/APatch/releases)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
