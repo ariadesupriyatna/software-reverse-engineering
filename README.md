@@ -70,6 +70,10 @@ A collection of awesome Android app reverse engineering resources
 - [LIME](https://github.com/504ensicslabs/lime)
 - [Android-nRF-Connect](https://github.com/NordicSemiconductor/Android-nRF-Connect/releases)
 - [PoC-GTFO](https://github.com/angea/pocorgtfo)
+- [DeveloperHelper](https://github.com/WrBug/DeveloperHelper/releases)
+- [Tinker](https://github.com/tencent/tinker)
+- [Dex-to-C Compiler](https://github.com/amimo/dcc)
+- [SmaliEx](https://github.com/testwhat/SmaliEx/releases)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
