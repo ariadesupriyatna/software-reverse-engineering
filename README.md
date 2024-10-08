@@ -91,6 +91,7 @@ A collection of awesome Android app reverse engineering resources
 - [Cryptography](https://play.google.com/store/apps/details?id=com.nitramite.cryptography)
 - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 - [cSharpShell](https://play.google.com/store/apps/details?id=com.radinc.csharpshell)
+- [LuaDroid](https://play.google.com/store/apps/details?id=com.alif.ide.lual)
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
