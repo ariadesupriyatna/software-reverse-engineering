@@ -101,7 +101,7 @@ A collection of awesome Android app reverse engineering resources
 - [rfc-editor](https://www.rfc-editor.org/)
 - [Manalyze](https://github.com/JusticeRage/Manalyze)
 - [peframe](https://github.com/guelfoweb/peframe)
-- [pefile](hhttps://github.com/erocarrera/pefile)
+- [pefile](https://github.com/erocarrera/pefile)
 - [pyew](https://github.com/joxeankoret/pyew)
 - [exiftool](https://exiftool.org/)
 - [clamav](https://www.clamav.net/)
@@ -114,6 +114,10 @@ A collection of awesome Android app reverse engineering resources
 - [upx](https://upx.github.io/)
 - [Netcat](https://nc110.sourceforge.io/)
 - [irc](https://www.epicsol.org//)
+- [fake-dns](https://code.activestate.com/recipes/491264-mini-fake-dns-server/)
+- [fakenet](https://github.com/mandiant/flare-fakenet-ng)
+- [yara](https://github.com/VirusTotal/yara/)
+- [Google Open Source](https://github.com/google/)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
