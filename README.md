@@ -118,6 +118,8 @@ A collection of awesome Android app reverse engineering resources
 - [fakenet](https://github.com/mandiant/flare-fakenet-ng)
 - [yara](https://github.com/VirusTotal/yara/)
 - [Google Open Source](https://github.com/google/)
+- [binary ninja](https://binary.ninja/)
+- [ida-free](https://hex-rays.com/ida-free)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
