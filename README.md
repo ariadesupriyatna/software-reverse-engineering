@@ -54,6 +54,7 @@ A collection of awesome Android app reverse engineering resources
 - [godot](https://github.com/godotengine/godot/releases/)
 - [QPython](https://github.com/qpython-android/qpython/releases)
 - [CodeAssist Unofficial](https://github.com/Deenu488/CodeAssist-Unofficial)
+- [LokiBoard](https://github.com/IceWreck/LokiBoard-Android-Keylogger)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
