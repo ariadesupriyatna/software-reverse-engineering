@@ -52,6 +52,8 @@ A collection of awesome Android app reverse engineering resources
 - [Shizuku](https://github.com/RikkaApps/Shizuku/releases)
 - [Smali Helper](https://github.com/Zylern/Smali-Helper/releases/)
 - [godot](https://github.com/godotengine/godot/releases/)
+- [QPython](https://github.com/qpython-android/qpython/releases)
+
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
