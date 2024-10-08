@@ -53,6 +53,7 @@ A collection of awesome Android app reverse engineering resources
 - [Smali Helper](https://github.com/Zylern/Smali-Helper/releases/)
 - [godot](https://github.com/godotengine/godot/releases/)
 - [QPython](https://github.com/qpython-android/qpython/releases)
+- [CodeAssist Unofficial](https://github.com/Deenu488/CodeAssist-Unofficial)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
