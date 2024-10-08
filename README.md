@@ -51,6 +51,7 @@ A collection of awesome Android app reverse engineering resources
 - [sslunpinning](https://github.com/ac-pm/SSLUnpinning_Xposed/blob/master/mobi.acpm.sslunpinning_latest.apk)
 - [Shizuku](https://github.com/RikkaApps/Shizuku/releases)
 - [Smali Helper](https://github.com/Zylern/Smali-Helper/releases/)
+- [godot](https://github.com/godotengine/godot/releases/)
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
