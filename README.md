@@ -118,8 +118,8 @@ A collection of awesome Android app reverse engineering resources
 - [fakenet](https://github.com/mandiant/flare-fakenet-ng)
 - [yara](https://github.com/VirusTotal/yara/)
 - [Google Open Source](https://github.com/google/)
-- [binary ninja](https://binary.ninja/)
-- [ida-free](https://hex-rays.com/ida-free)
+- [drmemory](https://github.com/dynamorio/drmemory/)
+- [deobfuscator](https://github.com/java-deobfuscator/deobfuscator)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
@@ -162,7 +162,8 @@ A collection of awesome Android app reverse engineering resources
 - [PentestKit Mobile](https://play.google.com/store/apps/details?id=com.pentestkit)
 - [iShredder](https://play.google.com/store/apps/details?id=com.projectstar.ishredder.android.standard)
 - [SDR Touch](https://play.google.com/store/apps/details?id=marto.androsdr2)
-
+- [binary ninja](https://binary.ninja/)
+- [ida-free](https://hex-rays.com/ida-free)
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
