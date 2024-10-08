@@ -65,6 +65,10 @@ A collection of awesome Android app reverse engineering resources
 - [ClassyShark3xodus](https://f-droid.org/packages/com.oF2pks.classyshark3xodus/)
 - [haven](https://github.com/guardianproject/haven/releases)
 - [Meta Open Source](https://opensource.fb.com/projects/)
+- [anbox](https://github.com/anbox/anbox)
+- [AndroidWM](http://huangyz.name/AndroidWM/)
+- [LIME](https://github.com/504ensicslabs/lime)
+- [Android-nRF-Connect](https://github.com/NordicSemiconductor/Android-nRF-Connect/releases)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
