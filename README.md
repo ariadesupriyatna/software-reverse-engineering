@@ -59,6 +59,7 @@ A collection of awesome Android app reverse engineering resources
 - [PixelKnot](https://github.com/guardianproject/PixelKnot/releases)
 - [HashDroid](https://github.com/HobbyOneDroid/HashDroid)
 - [NetHunter](https://store.nethunter.com/packages/com.offsec.nethunter/)
+- [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard/releases)
 
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
