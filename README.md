@@ -168,6 +168,7 @@ A collection of awesome Android app reverse engineering resources
 - [SDR Touch](https://play.google.com/store/apps/details?id=marto.androsdr2)
 - [binary ninja](https://binary.ninja/)
 - [ida-free](https://hex-rays.com/ida-free)
+- [FFmpeg Media Encoder](https://play.google.com/store/apps/details?id=com.silentlexx.ffmpeggui)
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
