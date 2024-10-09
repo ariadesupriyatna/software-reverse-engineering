@@ -121,6 +121,9 @@ A collection of awesome Android app reverse engineering resources
 - [drmemory](https://github.com/dynamorio/drmemory/)
 - [deobfuscator](https://github.com/java-deobfuscator/deobfuscator)
 
+![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/linux.png)
+
+
 ## Alternative not open source 
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
