@@ -120,6 +120,7 @@ A collection of awesome Android app reverse engineering resources
 - [Google Open Source](https://github.com/google/)
 - [drmemory](https://github.com/dynamorio/drmemory/)
 - [deobfuscator](https://github.com/java-deobfuscator/deobfuscator)
+- [deobfuscator](https://github.com/Zusyaku/Apk-Editor-Tools-For-Developer/raw/refs/heads/main/AE%20Manager(Pink)_010322161243.apk)
 
 ![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/linux.png)
 
