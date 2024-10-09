@@ -1,0 +1,5 @@
+invoke-static \{\}, Ljava/lang/System;->currentTimeMillis\(\)J\s+move-result-wide (.*)
+
+Dan/Atau
+
+invoke-static \{\}, Ljava/lang/System;->nanoTime\(\)J\s+move-result-wide (.*)
