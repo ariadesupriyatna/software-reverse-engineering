@@ -1,0 +1,1 @@
+(isvip|is_vip|vipuser|vip_user|ispro|is_pro|isprouser|ispro_user|ispremium|is_premium|ispremiumuser|ispremium_user|alreadyvip|already_vip|ispurchased|is_purchased|unlocked|adremoved|ad_removed|gopremium|go_premium|removed_ads|is_subscribed|subscribe_pro|subscriberpro)
