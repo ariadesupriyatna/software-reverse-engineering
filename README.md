@@ -122,7 +122,8 @@ A collection of awesome Android app reverse engineering resources
 - [deobfuscator](https://github.com/java-deobfuscator/deobfuscator)
 - [AE Manager](https://github.com/Zusyaku/Apk-Editor-Tools-For-Developer/raw/refs/heads/main/AE%20Manager(Pink)_010322161243.apk)
 - [CERN Open Source](https://opensource.web.cern.ch/)
-
+- [ish](https://github.com/ish-app/ish/releases)
+- 
 ![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/linux.png)
 
 
