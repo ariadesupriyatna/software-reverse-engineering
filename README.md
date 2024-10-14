@@ -126,6 +126,7 @@ A collection of awesome Android app reverse engineering resources
 - [BlackBox](https://github.com/FBlackBox/BlackBox/releases)
 - [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser/releases)
 - [PX HackBar](https://github.com/kaitolegion/MYAPK)
+- [buildAPKs](https://github.com/BuildAPKs/buildAPKs/releases)
 
 
 
