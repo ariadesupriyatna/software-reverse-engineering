@@ -124,6 +124,7 @@ A collection of awesome Android app reverse engineering resources
 - [CERN Open Source](https://opensource.web.cern.ch/)
 - [ish](https://github.com/ish-app/ish/releases)
 - [BlackBox](https://github.com/FBlackBox/BlackBox/releases)
+- [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser/releases)
 
 
 
