@@ -180,6 +180,10 @@ A collection of awesome Android app reverse engineering resources
 - [Unicode Pad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad)
 - [blynk](https://play.google.com/store/apps/details?id=cloud.blynk)
 - [CloudInject](http://cloud-inject.com/)
+- [bugtroid](https://bugtroid-free.id.uptodown.com/android)
+- [andrax](https://sourceforge.net/projects/andrax/)
+- [kayra-the-pentester-lite](https://apkpure.com/kayra-the-pentester-lite
+/teycode.kayralite)
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
