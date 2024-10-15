@@ -128,6 +128,7 @@ A collection of awesome Android app reverse engineering resources
 - [PX HackBar](https://github.com/kaitolegion/MYAPK)
 - [buildAPKs](https://github.com/BuildAPKs/buildAPKs/releases)
 - [proxydroid](https://github.com/madeye/proxydroid)
+- [andrax](https://sourceforge.net/projects/andrax/)
 
 
 ![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/linux.png)
@@ -182,8 +183,8 @@ A collection of awesome Android app reverse engineering resources
 - [blynk](https://play.google.com/store/apps/details?id=cloud.blynk)
 - [CloudInject](http://cloud-inject.com/)
 - [bugtroid](https://bugtroid-free.id.uptodown.com/android)
-- [andrax](https://sourceforge.net/projects/andrax/)
 - [kayra-the-pentester-lite](https://apkpure.com/kayra-the-pentester-lite/teycode.kayralite)
+- [dexguard.apk](https://apkpure.com/id/sshtunnel-dexguard/com.sshtunnel.dexguard)
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
