@@ -127,7 +127,7 @@ A collection of awesome Android app reverse engineering resources
 - [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser/releases)
 - [PX HackBar](https://github.com/kaitolegion/MYAPK)
 - [buildAPKs](https://github.com/BuildAPKs/buildAPKs/releases)
-
+- [proxydroid](https://github.com/madeye/proxydroid)
 
 
 ![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/linux.png)
