@@ -40,6 +40,7 @@ A collection of awesome Android app reverse engineering resources
 - [Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro/releases)
 - [java n IDE](https://github.com/shenghuntianlang/java-n-IDE-for-Android)
 - [SysLog](https://github.com/Tortel/SysLog/releases)
+- [C4droid-Shell)](https://github.com/fann95/C4droid-Shell)
 - [Multi Calculator](https://github.com/YangDai2003/Multi-Calculator-Android/releases)
 - [FakeTraveler](https://f-droid.org/packages/cl.coders.faketraveler/)
 - [MIT App Inventor](https://github.com/mit-cml/appinventor-sources)
