@@ -129,6 +129,7 @@ A collection of awesome Android app reverse engineering resources
 - [buildAPKs](https://github.com/BuildAPKs/buildAPKs/releases)
 - [proxydroid](https://github.com/madeye/proxydroid)
 - [andrax](https://sourceforge.net/projects/andrax/)
+- [pwndbg](https://pwndbg.re/)
 
 
 ![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/linux.png)
