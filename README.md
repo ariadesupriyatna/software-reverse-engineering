@@ -133,6 +133,10 @@ A collection of awesome Android app reverse engineering resources
 - [andrax](https://sourceforge.net/projects/andrax/)
 - [pwndbg](https://pwndbg.re/)
 - [AndLua+](https://github.com/zaibnabi139/AndLua-Shared-Projects-And-Sources)
+- [simple-obfs-android](https://github.com/shadowsocks/simple-obfs-android)
+- [PeSanKita-android](https://github.com/XecureIT/PeSanKita-android)
+- [J2ME-Loader](https://github.com/nikita36078/J2ME-Loader/releases)
+- [EtchDroid](https://github.com/etchdroid/etchdroid/releases)
 
 
 ![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/linux.png)
