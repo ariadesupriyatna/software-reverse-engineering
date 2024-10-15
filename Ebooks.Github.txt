@@ -1,0 +1,7 @@
+https://github.com/media-lib/prog_lib/blob/master/general/Eldad Eilam - Reversing - Secrets of Reverse Engineering.pdf
+.
+https://github.com/KevinOfNeu/ebooks/blob/master/Practical Reverse Engineering.pdf
+.
+https://0xinfection.github.io/reversing/reversing-for-everyone.pdf
+.
+https://github.com/wwkenwong/book/blob/master/Reverse Engineering for Beginners.pdf
