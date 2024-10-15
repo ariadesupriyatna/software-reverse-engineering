@@ -203,6 +203,8 @@ A collection of awesome Android app reverse engineering resources
 - [xdaforums](https://xdaforums.com/tags/reverse-engineering/)
 - [reversingid](https://t.me/reversingid)
 - [platinmods](https://platinmods.com/)
+- [Img Tool](https://play.google.com/store/apps/details?id=by.lsdsl.gta.imgtool&hl=id)
+- [iso2usbl](https://play.google.com/store/apps/details?id=com.mixapplications.iso2usb)
 
 ## Challenges
 - [Crackme](https://crackmes.one/)
