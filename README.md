@@ -195,7 +195,7 @@ A collection of awesome Android app reverse engineering resources
 - [dexguard.apk](https://apkpure.com/id/sshtunnel-dexguard/com.sshtunnel.dexguard)
 - [Payload Generator](https://play.google.com/store/apps/details?id=com.generator.ashkenaz)
 - [Img Tool](https://play.google.com/store/apps/details?id=by.lsdsl.gta.imgtool&hl=id)
-- [iso2usbl](https://play.google.com/store/apps/details?id=com.mixapplications.iso2usb)
+- [iso2usb](https://play.google.com/store/apps/details?id=com.mixapplications.iso2usb)
 
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
