@@ -186,6 +186,8 @@ A collection of awesome Android app reverse engineering resources
 - [bugtroid](https://bugtroid-free.id.uptodown.com/android)
 - [kayra-the-pentester-lite](https://apkpure.com/kayra-the-pentester-lite/teycode.kayralite)
 - [dexguard.apk](https://apkpure.com/id/sshtunnel-dexguard/com.sshtunnel.dexguard)
+- [Payload Generator](https://play.google.com/store/apps/details?id=com.generator.ashkenaz)
+
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
