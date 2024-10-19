@@ -104,6 +104,7 @@ A collection of awesome Android app reverse engineering resources
 - [Apktool](https://github.com/iBotPeaches/Apktool)
 - [capstone](https://github.com/capstone-engine/capstone)
 - [Open Source NSA](https://code.nsa.gov/)
+- [Bluetooth GNSS](https://github.com/ykasidit/bluetooth_gnss/releases)
 - [rfc-editor](https://www.rfc-editor.org/)
 - [Manalyze](https://github.com/JusticeRage/Manalyze)
 - [peframe](https://github.com/guelfoweb/peframe)
