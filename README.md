@@ -57,6 +57,7 @@ A collection of awesome Android app reverse engineering resources
 - [Shizuku](https://github.com/RikkaApps/Shizuku/releases)
 - [Smali Helper](https://github.com/Zylern/Smali-Helper/releases/)
 - [godot](https://github.com/godotengine/godot/releases/)
+- [BT Remote](https://gitlab.com/Atharok/BtRemote)
 - [QPython](https://github.com/qpython-android/qpython/releases)
 - [CodeAssist Unofficial](https://github.com/Deenu488/CodeAssist-Unofficial)
 - [LokiBoard](https://github.com/IceWreck/LokiBoard-Android-Keylogger)
