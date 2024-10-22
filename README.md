@@ -1,3 +1,5 @@
+![ri](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/adearie 1337.jpg)
+
 A collection of awesome Android app reverse engineering resources
 
 1. Without Root ;)
