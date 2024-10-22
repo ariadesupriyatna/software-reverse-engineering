@@ -197,6 +197,7 @@ A collection of awesome Android app reverse engineering resources
 - [Unicode Pad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad)
 - [blynk](https://play.google.com/store/apps/details?id=cloud.blynk)
 - [HxD](https://mh-nexus.de/en/hxd/)
+- [wifitalkie_lite](https://play.google.com/store/apps/details?id=com.remaller.android.wifitalkie_lite)
 - [CloudInject](http://cloud-inject.com/)
 - [bugtroid](https://bugtroid-free.id.uptodown.com/android)
 - [kayra-the-pentester-lite](https://apkpure.com/kayra-the-pentester-lite/teycode.kayralite)
