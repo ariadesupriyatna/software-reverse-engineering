@@ -205,6 +205,9 @@ A collection of awesome Android app reverse engineering resources
 - [Payload Generator](https://play.google.com/store/apps/details?id=com.generator.ashkenaz)
 - [Img Tool](https://play.google.com/store/apps/details?id=by.lsdsl.gta.imgtool&hl=id)
 - [iso2usb](https://play.google.com/store/apps/details?id=com.mixapplications.iso2usb)
+- [Ping & Net](https://play.google.com/store/apps/details?id=com.ulfdittmer.android.ping)
+- [NetShare - no-root-tethering](https://play.google.com/store/apps/details?id=kha.prog.mikrotik)
+- [PdaNet+](https://play.google.com/store/apps/details?id=com.pdanet)
 
 
 ![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
