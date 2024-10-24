@@ -144,6 +144,9 @@ A collection of awesome Android app reverse engineering resources
 - [PeSanKita-android](https://github.com/XecureIT/PeSanKita-android)
 - [J2ME-Loader](https://github.com/nikita36078/J2ME-Loader/releases)
 - [EtchDroid](https://github.com/etchdroid/etchdroid/releases)
+- [InjectDocumentsProvider](https://github.com/AbdurazaaqMohammed/InjectDocumentsProvider/releases)
+- [Nix-on-Droid](https://f-droid.org/id/packages/com.termux.nix/)
+- [APKExtractor+](https://github.com/AbdurazaaqMohammed/APKExtractor/releases)
 
 
 ![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/linux.png)
