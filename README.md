@@ -147,6 +147,7 @@ A collection of awesome Android app reverse engineering resources
 - [InjectDocumentsProvider](https://github.com/AbdurazaaqMohammed/InjectDocumentsProvider/releases)
 - [Nix-on-Droid](https://f-droid.org/id/packages/com.termux.nix/)
 - [APKExtractor+](https://github.com/AbdurazaaqMohammed/APKExtractor/releases)
+- [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/releases)
 
 
 ![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/linux.png)
